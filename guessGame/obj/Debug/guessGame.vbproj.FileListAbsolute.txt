@@ -1,0 +1,11 @@
+C:\Users\ws\Desktop\Guess-Game\guessGame\guessGame\bin\Debug\guessGame.exe.config
+C:\Users\ws\Desktop\Guess-Game\guessGame\guessGame\obj\Debug\guessGame.vbprojResolveAssemblyReference.cache
+C:\Users\ws\Desktop\Guess-Game\guessGame\guessGame\obj\Debug\guessGame.Form1.resources
+C:\Users\ws\Desktop\Guess-Game\guessGame\guessGame\obj\Debug\guessGame.Resources.resources
+C:\Users\ws\Desktop\Guess-Game\guessGame\guessGame\obj\Debug\guessGame.vbproj.GenerateResource.Cache
+C:\Users\ws\Desktop\Guess-Game\guessGame\guessGame\obj\Debug\guessGame.xml
+C:\Users\ws\Desktop\Guess-Game\guessGame\guessGame\bin\Debug\guessGame.exe
+C:\Users\ws\Desktop\Guess-Game\guessGame\guessGame\bin\Debug\guessGame.pdb
+C:\Users\ws\Desktop\Guess-Game\guessGame\guessGame\bin\Debug\guessGame.xml
+C:\Users\ws\Desktop\Guess-Game\guessGame\guessGame\obj\Debug\guessGame.exe
+C:\Users\ws\Desktop\Guess-Game\guessGame\guessGame\obj\Debug\guessGame.pdb
